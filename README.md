@@ -4,9 +4,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Satan-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Satan-tg&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Satan-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=satan-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=satan-tg&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=satan-tg&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
 <b>• 👨‍💻 Lᴀɴɢᴜᴀɢᴇs: Pʏᴛʜᴏɴ, HTML, CSS, JᴀᴠᴀSᴄʀɪᴘᴛ, Gᴏʟᴀɴɢ, C++
